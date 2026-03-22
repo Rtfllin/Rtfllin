@@ -43,6 +43,12 @@ IDE:
 ![](https://img.shields.io/badge/IDE-NeoVim-f0e500?style=flat-square&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/IDE-Emacs-f0e500?style=flat-square&logo=emacs&logoColor=white)
 ![](https://img.shields.io/badge/IDE-Zed-f0e500?style=flat-square&logo=zed&logoColor=white)
+![](https://img.shields.io/badge/IDE-Android_studio-f0e500?style=flat-square&logo=Androidstudio&logoColor=white)
+![](https://img.shields.io/badge/IDE-Xcode-f0e500?style=flat-square&logo=Xcode&logoColor=white)
 
 
 I am a believer in the Unix philosophy🙏🙏🙏
+Thank you for coming here！
+
+
+<img src="https://profile-counter.glitch.me/Rtfllin/count.svg" alt="icon" width="130px"> 
