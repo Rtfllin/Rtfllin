@@ -5,7 +5,7 @@ I am a person!!!
 I am a full-stack developer，but I am lazy.
 
 
-<span > <img src="https://img.shields.io/badge/-HTML5-f0e500?style=flat-square&logo=html5&logoColor=white" /> 
+<span > <img src="https://img.shields.io/badge/code-HTML5-f0e500?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/code-CSS3-f0e500?style=flat-square&logo=css" /> 
 <img src="https://img.shields.io/badge/code-JavaScript-f0e500?style=flat-square&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/code-java-f0e500?style=flat-square&logo=java&logoColor=black" /> 
@@ -30,3 +30,10 @@ And OS:
 <img src="https://img.shields.io/badge/OS-ios-informational?style=flat&logo=ios&logoColor=white&color=f0e500" />
 <img src="https://img.shields.io/badge/OS-windows-informational?style=flat&logo=windows&logoColor=white&color=f0e500" />
 </span>
+
+
+IDE:
+
+![](https://img.shields.io/badge/IDE-VS_Code-f0e500?style=flat-square&logo=visualstudio-code&logoColor=white)
+![](https://img.shields.io/badge/IDE-Visual_Studio-f0e500?style=flat-square&logo=visualstudio&logoColor=white)
+![](https://img.shields.io/badge/IDE-JetBrains-f0e500?style=flat-square&logo=JetBrains&logoColor=white)
