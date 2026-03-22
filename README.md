@@ -34,6 +34,9 @@ And OS:
 
 IDE:
 
-![](https://img.shields.io/badge/IDE-VS_Code-f0e500?style=flat-square&logo=visualstudio-code&logoColor=white)
-![](https://img.shields.io/badge/IDE-Visual_Studio-f0e500?style=flat-square&logo=visualstudio&logoColor=white)
+![](https://img.shields.io/badge/IDE-VS_Code-f0e500?style=flat-square&logo=vscode&logoColor=white)
+![](https://img.shields.io/badge/IDE-VisualStudio-f0e500?style=flat-square&logo=visualstudio&logoColor=white)
 ![](https://img.shields.io/badge/IDE-JetBrains-f0e500?style=flat-square&logo=JetBrains&logoColor=white)
+![](https://img.shields.io/badge/IDE-NeoVim-f0e500?style=flat-square&logo=neovim&logoColor=white)
+![](https://img.shields.io/badge/IDE-Emacs-f0e500?style=flat-square&logo=emacs&logoColor=white)
+![](https://img.shields.io/badge/IDE-Zed-f0e500?style=flat-square&logo=zed&logoColor=white)
