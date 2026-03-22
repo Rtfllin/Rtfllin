@@ -1,7 +1,8 @@
 <div align="center">
-About Rtfllin
 
-I am a person!!!
+# About Rtfllin
+
+**I am a person!!!💖**
 
 I am a full-stack developer，but I am lazy.
 
@@ -33,6 +34,7 @@ And OS:
 </span>
 
 
+
 IDE:
 
 ![](https://img.shields.io/badge/IDE-VS_Code-f0e500?style=flat-square&logo=vscode&logoColor=white)
@@ -41,3 +43,6 @@ IDE:
 ![](https://img.shields.io/badge/IDE-NeoVim-f0e500?style=flat-square&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/IDE-Emacs-f0e500?style=flat-square&logo=emacs&logoColor=white)
 ![](https://img.shields.io/badge/IDE-Zed-f0e500?style=flat-square&logo=zed&logoColor=white)
+
+
+I am a believer in the Unix philosophy🙏🙏🙏
