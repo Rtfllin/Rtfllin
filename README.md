@@ -9,7 +9,7 @@
 
 I am a believer in the Unix philosophy🙏🙏🙏
 
-This is part of what I know💾:
+This is part of what I know  :💾
 
 <span > <img src="https://img.shields.io/badge/code-HTML5-f0e500?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/code-CSS3-f0e500?style=flat-square&logo=css" /> 
