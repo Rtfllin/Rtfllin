@@ -4,8 +4,12 @@
 
 **I am a person!!!💖**
 
-I am a full-stack developer，but I am lazy.
+📚I am a full-stack developer，but I am lazy.
 
+
+I am a believer in the Unix philosophy🙏🙏🙏
+
+This is part of what I know💾:
 
 <span > <img src="https://img.shields.io/badge/code-HTML5-f0e500?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/code-CSS3-f0e500?style=flat-square&logo=css" /> 
@@ -47,8 +51,10 @@ IDE:
 ![](https://img.shields.io/badge/IDE-Xcode-f0e500?style=flat-square&logo=Xcode&logoColor=white)
 
 
-I am a believer in the Unix philosophy🙏🙏🙏
+
+
 Thank you for coming here！
 
+Wish you a happy life💞💞
 
 <img src="https://profile-counter.glitch.me/Rtfllin/count.svg" alt="icon" width="130px"> 
