@@ -2,12 +2,15 @@
 
 # About Rtfllin
 
-**I am a person!!!💖**
+**Hello💖**
 
 📚I am a full-stack developer，but I am lazy.
 
 
 I am a believer in the Unix philosophy🙏🙏🙏
+
+I very love Minecraft!🌾
+
 
 This is part of what I know  :💾
 
@@ -17,13 +20,11 @@ This is part of what I know  :💾
 <img src="https://img.shields.io/badge/code-java-f0e500?style=flat-square&logo=java&logoColor=black" /> 
 <img src="https://img.shields.io/badge/code-python-f0e500?style=flat-square&logo=python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/code-c-f0e500?style=flat-square&logo=c&logoColor=white" /> 
-<img src="https://img.shields.io/badge/code-C++-f0e500?style=flat-square&logo=c%2B%2B&logoColor=white" /> 
 <img src="https://img.shields.io/badge/code-go-f0e500?style=flat-square&logo=go&logoColor=white" /> 
 <img src="https://img.shields.io/badge/code-rust-f0e500?style=flat-square&logo=rust&logoColor=white" /> 
-<img src="https://img.shields.io/badge/code-kotlin-f0e500?style=flat-square&logo=kotlin&logoColor=white" /> 
 <img src="https://img.shields.io/badge/code-net-f0e500?style=flat-square&logo=net&logoColor=white" /> 
-<img src="https://img.shields.io/badge/code-dart-f0e500?style=flat-square&logo=dart&logoColor=white" /> 
-<img src="https://img.shields.io/badge/code-swift-f0e500?style=flat-square&logo=swift&logoColor=white" /></span>
+<img src="https://img.shields.io/badge/code-Dart-f0e500?style=flat-square&logo=Dart&logoColor=white" /> 
+</span>
 
 And OS:
 
@@ -31,9 +32,6 @@ And OS:
 <span >
 <img src="https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=linux&logoColor=white&color=f0e500" />
 <img src="https://img.shields.io/badge/OS-FreeBSD-informational?style=flat&logo=FreeBSD&logoColor=white&color=f0e500" />
-<img src="https://img.shields.io/badge/OS-macos-informational?style=flat&logo=macos&logoColor=white&color=f0e500" />
-<img src="https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=f0e500" />
-<img src="https://img.shields.io/badge/OS-ios-informational?style=flat&logo=ios&logoColor=white&color=f0e500" />
 <img src="https://img.shields.io/badge/OS-windows-informational?style=flat&logo=windows&logoColor=white&color=f0e500" />
 </span>
 
@@ -48,7 +46,6 @@ IDE:
 ![](https://img.shields.io/badge/IDE-Emacs-f0e500?style=flat-square&logo=emacs&logoColor=white)
 ![](https://img.shields.io/badge/IDE-Zed-f0e500?style=flat-square&logo=zed&logoColor=white)
 ![](https://img.shields.io/badge/IDE-Android_studio-f0e500?style=flat-square&logo=Androidstudio&logoColor=white)
-![](https://img.shields.io/badge/IDE-Xcode-f0e500?style=flat-square&logo=Xcode&logoColor=white)
 
 
 
